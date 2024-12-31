@@ -1,0 +1,3 @@
+C:/Users/ya256/CLionProjects/hospitalsystem/cmake-build-debug/CMakeFiles/hospitalsystem.dir
+C:/Users/ya256/CLionProjects/hospitalsystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ya256/CLionProjects/hospitalsystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
